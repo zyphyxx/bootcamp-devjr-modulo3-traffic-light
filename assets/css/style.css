@@ -19,7 +19,12 @@ button {
        cursor: pointer;
        
 }
-.a1 {
+button:hover {
+
+       background-color: #651f71;
+       box-shadow: 0 8px 16px 0 rgba(0,0, 0, 0.2);
+}
+.box{
        background-color: #000000;
        width: 100px;
        padding-top: 10px;
